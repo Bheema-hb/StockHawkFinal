@@ -1,0 +1,7 @@
+#Tue Dec 20 20:27:55 IST 2016
+base.0=/Users/Bheema/Android-Projects/NanoDegree/StockHawkFinal/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9e10193a6f7bd129de7f5a02418f7a2a2d9768a6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Bheema/Android-Projects/NanoDegree/StockHawkFinal/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4988a832635c92903853ae4de35719bc7389d78/classes.dex
+base.1=/Users/Bheema/Android-Projects/NanoDegree/StockHawkFinal/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c4988a832635c92903853ae4de35719bc7389d78
+file.0=/Users/Bheema/Android-Projects/NanoDegree/StockHawkFinal/StockHawk-Bheema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9e10193a6f7bd129de7f5a02418f7a2a2d9768a6/classes.dex
